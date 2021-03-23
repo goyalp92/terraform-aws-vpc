@@ -1,0 +1,4 @@
+
+variable "nat_id"{
+  
+}
